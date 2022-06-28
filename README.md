@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Teste Frontend estágio V2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto trata-se de uma aplicação web feita com React.js que tem como objetivo coletar dados de equipamentos utilizados em uma operação florestal. 
 
-## Available Scripts
+## Essa Aplicação apresenta:
+
+- As posições dos equipamentos: Exibindo no mapa os equipamentos nas suas posições mais recentes.
+
+- O estado atual do equipamento: Onde podemos visualizar o estado mais recente dos equipamentos através de um pop-up, mouse hover sobre o equipamento.
+
+- O histórico de estados do equipamento: Que permite a visualização do histórico de estados de um equipamento específico ao clicar sobre o equipamento.
+
+- Diferenciação dos equipamentos: Diferenciando visualmente os equipamentos por modelo de equipamento na visualização do mapa.
 
 In the project directory, you can run:
 
